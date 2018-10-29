@@ -40,6 +40,6 @@ Task 2:While doing your part on the website,please use Web Services API to the c
               |
               __________ References - in a .txt format showing the links of websites that might help you to working the part of the website.
               
-              NOTE: ANY PERSONAL REASONS REGARDING NOT DOING THE PART OF HIS ACCOMPLISHMENTS ARE INVALID FOR DOING HIS PART IN THE WEBSITE WILL BE NOT TAKING ANY CREDIT ON THE PEER EVALUATION.
+NOTE: ANY PERSONAL REASONS REGARDING NOT DOING THE PART OF HIS ACCOMPLISHMENTS ARE INVALID AND YOU WILL BE NOT TAKING ANY CREDIT ON THE PEER EVALUATION.
               
-              Any questions regarding this guidelines and clarifications regarding to the implementation of the website,please help yourself to personal ask the Group Representative to update this guidelines.
+Any questions regarding this guidelines and clarifications regarding to the implementation of the website,please help yourself to personal ask the Group Representative to update this guidelines.
