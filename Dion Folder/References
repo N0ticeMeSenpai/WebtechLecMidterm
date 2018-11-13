@@ -4,3 +4,8 @@ Hannah, J. (2018, October 14). The Ultimate Guide to JavaScript Frameworks. Retr
 Vue.js. (n.d.). Retrieved from https://vuejs.org/
 T.(2018, June 29). React vs. Angular vs. Vue: Which Should You Choose? Retrieved from https://www.youtube.com/watch?v=xDhzYQ4VyCw
 Top 10 Front-End Frameworks of 2018. (2018, September 04). Retrieved from https://www.keycdn.com/blog/front-end-frameworks
+
+//References for the Vue Js to be implemented in the content of the website
+https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
+https://www.youtube.com/watch?v=aoWqFLGCK60
+https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
