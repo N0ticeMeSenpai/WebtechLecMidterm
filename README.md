@@ -5,7 +5,7 @@ Task 1:Please assign yourself in what part of the website should you able to fin
 
           These are the parts of the Website and Person assigned in the Specific Part of the Website
           -> Headlines - Leo
-          -> Business
+          -> Business - Michael
           -> Entertainment
           -> Health
           -> Science
