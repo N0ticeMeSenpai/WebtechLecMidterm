@@ -8,7 +8,7 @@ Task 1:Please assign yourself in what part of the website should you able to fin
           -> Business - Michael
           -> Entertainment
           -> Health
-          -> Science
+          -> Science - Melvin
           -> Sports - Allen
           -> Technology
   
