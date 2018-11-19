@@ -6,11 +6,11 @@ Task 1:Please assign yourself in what part of the website should you able to fin
           These are the parts of the Website and Person assigned in the Specific Part of the Website
           -> Headlines - Leo
           -> Business - Michael
-          -> Entertainment
+          -> Entertainment - Leo
           -> Health - Regae
           -> Science - Melvin
           -> Sports - Allen
-          -> Technology
+          -> Technology - Leo
   
 Task 2:While doing your part on the website,please use Web Services API to the content of the website that was listed in the documentation and do not try to create your own content in the website but the design can be change but it should be match the Front/UI CSS Framework and Javascript Framework that was documented in the Midterm Proposal.
                                     
