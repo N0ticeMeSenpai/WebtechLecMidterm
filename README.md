@@ -21,7 +21,7 @@
                 
                                Guidelines in Making Root Directory in the Github
                                
-                    FINALS FOLDER - THIS FOLDER WILL BE USED FOR THE ARRANGEMENT IN THIS FINALS PROJECT
+                    FINAL FOLDER - THIS FOLDER WILL BE USED FOR THE ARRANGEMENT IN THIS FINALS PROJECT
                          |
                          |
                          |
