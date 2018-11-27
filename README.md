@@ -31,7 +31,7 @@
                                |
                                |
                                |
-                               ------ FINAL FOLDER - THIS WILL COLLECTED BY THE GROUP REPRESENTATIVE OF THE GROUP TO BE INTEGRATED IN THE WEBSITE AND ABLE TO ACCOMPLISH HIS ROLE ON TIME.
+                               ------ MY FINAL OUTPUT FOLDER - THIS WILL COLLECTED BY THE GROUP REPRESENTATIVE OF THE GROUP TO BE INTEGRATED IN THE WEBSITE AND ABLE TO ACCOMPLISH HIS ROLE ON TIME.
                                |
                                |
                                |
