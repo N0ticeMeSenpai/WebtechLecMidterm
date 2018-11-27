@@ -32,11 +32,11 @@
                                |
                                |
                                ------ FINAL FOLDER - THIS WILL COLLECTED BY THE GROUP REPRESENTATIVE OF THE GROUP TO BE INTEGRATED IN THE WEBSITE AND ABLE TO ACCOMPLISH HIS ROLE ON TIME.
-                                        |
-                                        |
-                                        |
-                                        |
-                                        ------- WORKING FOLDER - THIS WILL USE FOR PUTTING ALL THE FILES THAT YOU WORKING ON.KINDLY PUT REFERENCES.TXT ALL THE RESOURCES THAT CAN BE USEFUL FOR THE IMPLEMENTING THE WEBSITE.
+                               |
+                               |
+                               |
+                               |
+                               ------- WORKING FOLDER - THIS WILL USE FOR PUTTING ALL THE FILES THAT YOU WORKING ON.KINDLY PUT REFERENCES.TXT ALL THE RESOURCES THAT CAN BE USEFUL FOR THE IMPLEMENTING THE WEBSITE.
             
        NOTICE:IN AN IF CASE SCENARIO,IF ONE OF THE GROUPS DID NOT ACCOMPLISH HIS TASK ON TIME,HE WILL BE THE ONE WHO EXPLAIN TO THE INSTRUCTOR TO TELL THE PERSONAL REASONS WHY DID NOT DO HIS TASK. 
 
