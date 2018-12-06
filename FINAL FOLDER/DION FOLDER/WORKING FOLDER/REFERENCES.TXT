@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=r8EPFN1cR-8
 https://github.com/srilekhadasari/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer
 https://stackoverflow.com/questions/10473267/jsp-quiz-application-with-database-access
 https://dba.stackexchange.com/questions/130831/quiz-database-design
+
+ACCESSING DATABASE IN REGISTRATION:
+http://www.javawebtutor.com/articles/servlets/servlet_db_example.php
