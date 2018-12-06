@@ -10,3 +10,6 @@ https://dba.stackexchange.com/questions/130831/quiz-database-design
 
 ACCESSING DATABASE IN REGISTRATION:
 http://www.javawebtutor.com/articles/servlets/servlet_db_example.php
+
+LOGIN PAGE DEMO:
+http://java.candidjava.com/tutorial/Login-page-using-jsp-and-servlet-with-mysql-database.htm
